@@ -9,6 +9,7 @@ Preparation to run the web app
 ```bash
 // clone
 git clone https://github.com/thirthfamous/dans-job-react.git
+cd dans-job-react
 
 // install dependencies
 yarn install
